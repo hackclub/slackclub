@@ -1,4 +1,4 @@
-# slackEDU
+# slackEDU [![Circle CI](https://circleci.com/gh/hackedu/slackedu.svg?style=svg)](https://circleci.com/gh/hackedu/slackedu)
 
 slackEDU is hackEDU's friendly
 [`slack-irc`](https://github.com/ekmartin/slack-irc) bridge. She connects
