@@ -1,0 +1,13 @@
+[
+  {
+    "nickname": "slackEDU",
+    "server": "irc.freenode.net",
+    "token": "${SLACK_TOKEN}",
+    "autoSendCommands": [
+        ["PRIVMSG", "NickServ", "IDENTIFY ${NICKSERV_PASSWORD}"]
+    ],
+    "channelMapping": {
+      "#hackedu": "#hackedu"
+    }
+  }
+]
