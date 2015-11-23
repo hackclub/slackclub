@@ -1,4 +1,4 @@
-# Slack Club [![Circle CI](https://circleci.com/gh/hackedu/slackedu.svg?style=svg)](https://circleci.com/gh/hackedu/slackedu)
+# Slack Club [![Circle CI](https://circleci.com/gh/hackclub/slackclub.svg?style=svg)](https://circleci.com/gh/hackclub/slackclub)
 
 slackclub is Hack Club's friendly
 [`slack-irc`](https://github.com/ekmartin/slack-irc) bridge. She connects
